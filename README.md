@@ -18,7 +18,7 @@
 
 - **[AI-fuzzer-project]** - 메인 AI 퍼저 코어 엔진 (Private)
 
-## 👥 Our Team
+## Our Team
 
 | Profile | Name / GitHub | Role |
 | :---: | :--- | :--- |
